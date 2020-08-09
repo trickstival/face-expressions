@@ -2,6 +2,8 @@
 
 Check out the [demo](https://face-expressions.netlify.app/)
 
+![Surprised Image](./wow.png)
+
 ## Project setup
 ```
 yarn install
