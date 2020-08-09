@@ -1,5 +1,7 @@
 # emoji
 
+Check out the [demo](https://face-expressions.netlify.app/)
+
 ## Project setup
 ```
 yarn install
